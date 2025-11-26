@@ -1,0 +1,33 @@
+CHANGE SUMMARY BY UNIQUE ID
+OVERVIEW
+Old_Table.json: ~86 unique IDs
+Final_Table.json: ~62 unique IDs
+Changes: 6 created, ~30 deleted, 4 edited
+
+CREATED (6 new IDs)
+G027 - App name consistency (title + body with step-by-step instructions)
+A051 - Marketing URL fix (title + body with step-by-step instructions)
+A052 - Pricing Plans IAP update (title + body with IAP requirements)
+A053 - Submit all IAPs (title + body with step-by-step instructions)
+A054 - Apple Captcha settings (title + body with step-by-step instructions)
+A055 - Copyright information fix (title + body with step-by-step instructions)
+
+DELETED (~30 IDs)
+Google IDs: G001, G002, G003, G011, G022Apple IDs: A008, A009, A010, A022, A026, A030, A033, A034, A036, A040, A041Combined IDs: AG001, AG002, AG003, AG004, AG009, AG010, AG012, AG013, AG014Note: Intentionally removed as part of filtering. Only requested IDs were kept.
+EDITED (4 IDs with content changes)
+G020 - Privacy policy requirements
+Updated body with HTTPS URL requirements
+Updated body.Relops accordingly
+A014 - Third-party documentation
+Updated body with email requirements (app name in subject, relationship explanation)
+A015 - Licensing and permissions
+Updated body with email requirements (app name in subject, licensing summary)
+Updated body.Relops accordingly
+A035 - Business documentation
+Updated body with email requirements (app name in subject, relationship summary)
+Updated body.Relops accordingly
+
+SUMMARY
+Total changes: 40 IDs (6 created + ~30 deleted + 4 edited)
+Change rate: ~46% of IDs in Old_Table.json
+Final_Table.json is a filtered subset of Old_Table.json with content improvements to the edited IDs.
