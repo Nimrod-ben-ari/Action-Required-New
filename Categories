@@ -1,0 +1,92 @@
+{
+  "categories": {
+    "0. Initial connections & access": [
+      "G016",
+      "G024",
+      "G026",
+      "A017",
+      "A018"
+    ],
+    "1. Account & identity verifications (Apple/Google)": [
+      "G005",
+      "G021",
+      "G025",
+      "A006",
+      "A012",
+      "A025"
+    ],
+    "2. Store basics & visuals (name, icon, colors, screenshots)": [
+      "G006",
+      "G009",
+      "G013",
+      "G015",
+      "A007",
+      "A013",
+      "A016",
+      "A031",
+      "A032",
+      "A037",
+      "AG006",
+      "AG008",
+      "G027",
+      "A051",
+      "A055"
+    ],
+    "3. Content, policies & legal documentation": [
+      "G004",
+      "G017",
+      "G019",
+      "G020",
+      "A001",
+      "A002",
+      "A003",
+      "A014",
+      "A015",
+      "A020",
+      "A021",
+      "A023",
+      "A024",
+      "A035",
+      "A039"
+    ],
+    "4. Required integrations & features (e.g., Captcha)": [
+      "A011",
+      "A027",
+      "A054",
+      "AG011"
+    ],
+    "5. Apple IAP – setup & submission (end of process)": [
+      "A028",
+      "A038",
+      "A052",
+      "A053"
+    ],
+    "6. Testing, quality & final submission (mainly Google)": [
+      "G018",
+      "G023",
+      "G100",
+      "G101",
+      "G102",
+      "G103",
+      "G200",
+      "G201",
+      "G202",
+      "G203",
+      "G204",
+      "AG005",
+      "AG007"
+    ],
+    "9. Unclassified": [
+      "A004",
+      "A005",
+      "A019",
+      "A029",
+      "R001",
+      "R002",
+      "R003",
+      "R004",
+      "R005"
+    ]
+  }
+}
+
